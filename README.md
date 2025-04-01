@@ -60,9 +60,7 @@
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanAcevedo08&layout=compact&theme=radical" />
     </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=JuanAcevedo08&theme=radical" />
-    </td>
+  
   </tr>
 </table>
 
