@@ -3,11 +3,12 @@
 <h2 align="center">I'm 17 years old and i am a passionate about technology, software development, and machine learning </h2>
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
+[![Made with ❤️ by Juan Acevedo](https://img.shields.io/badge/Made%20with%20❤️%20by-Juan%20Acevedo-red?style=for-the-badge)](https://www.instagram.com/juan._.894/)
+
 ## Platzi Student 
 [![Platzi](https://img.shields.io/badge/Platzi-98CA3F?style=for-the-badge&logo=platzi&logoColor=white)](https://platzi.com/p/jdjuandavida/)
 
 
- 
 - 🔭 I am passionate about functionality and the mysteries of the universe.
 - 🔰 Communication and support are a strong point I have.
 - 💻I like to learn about new technologies and be constantly learning.
@@ -45,6 +46,24 @@
     <img src="https://img.shields.io/badge/BI-0078D4?style=for-the-badge&logo=powerbi&logoColor=white" />
   </a>
 </p>
+
+### 📊 GitHub Stats & Top Languages  
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=JuanAcevedo08&show_icons=true&theme=radical" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanAcevedo08&layout=compact&theme=radical" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=JuanAcevedo08&theme=radical" />
+    </td>
+  </tr>
+</table>
+
+
+
 
 
 
