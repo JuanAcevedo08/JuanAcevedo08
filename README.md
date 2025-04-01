@@ -73,7 +73,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/juan-david-acevedo-ba0242339/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Juan Acevedo" height="30" width="40" /></a>
 <a href="https://discord.gg/AazVjZR5b4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ArcadeNExus" height="30" width="40" /></a>
-<a href="https://www.instagram.com/juan._.894/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Juan Acevedo" height="30" width="40" /></a>
+<a href="https://www.instagram.com/juandavid08948/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Juan Acevedo" height="30" width="40" /></a>
 </p>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=JuanAcevedo08&color=blue&style=for-the-badge)](https://github.com/JuanAcevedo08)
