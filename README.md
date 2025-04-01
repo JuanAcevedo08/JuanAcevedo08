@@ -8,6 +8,10 @@
 ## Platzi Student 
 [![Platzi](https://img.shields.io/badge/Platzi-98CA3F?style=for-the-badge&logo=platzi&logoColor=white)](https://platzi.com/p/jdjuandavida/)
 
+### 🚀 Quote of the Day  
+![Quote](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Code%2C+Learn%2C+Improve%2C+Repeat+🔥;~+JA08)
+
+
 
 - 🔭 I am passionate about functionality and the mysteries of the universe.
 - 🔰 Communication and support are a strong point I have.
