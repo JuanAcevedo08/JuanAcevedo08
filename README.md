@@ -18,15 +18,32 @@
 
 ## 🚀 Tools
 
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)  
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)  
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)  
-[![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-5A5A5A?style=for-the-badge&logo=openai&logoColor=white)](https://www.promptingguide.ai/)  
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)  
-[![Artificial Intelligence](https://img.shields.io/badge/AI-00A3E0?style=for-the-badge&logo=openai&logoColor=white)](https://en.wikipedia.org/wiki/Artificial_intelligence)  
-[![Business Intelligence](https://img.shields.io/badge/BI-0078D4?style=for-the-badge&logo=powerbi&logoColor=white)](https://powerbi.microsoft.com/)  
-
+<p align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  </a>
+  <a href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  </a>
+  <a href="https://www.promptingguide.ai/">
+    <img src="https://img.shields.io/badge/Prompt%20Engineering-5A5A5A?style=for-the-badge&logo=openai&logoColor=white" />
+  </a>
+  <a href="https://git-scm.com/">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  </a>
+  <a href="https://github.com/">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Artificial_intelligence">
+    <img src="https://img.shields.io/badge/AI-00A3E0?style=for-the-badge&logo=openai&logoColor=white" />
+  </a>
+  <a href="https://powerbi.microsoft.com/">
+    <img src="https://img.shields.io/badge/BI-0078D4?style=for-the-badge&logo=powerbi&logoColor=white" />
+  </a>
+</p>
 
 
 
