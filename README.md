@@ -3,7 +3,7 @@
 <h2 align="center">I'm 17 years old and i am a passionate about technology, software development, and machine learning </h2>
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
-[![Made with ❤️ by Juan Acevedo](https://img.shields.io/badge/Made%20with%20❤️%20by-Juan%20Acevedo-red?style=for-the-badge)](https://www.instagram.com/juan._.894/)
+[![Made with ❤️ by Juan Acevedo](https://img.shields.io/badge/Made%20with%20❤️%20by-Juan%20Acevedo-red?style=for-the-badge)](https://www.instagram.com/juandavid08948/)
 
 ## Platzi Student 
 [![Platzi](https://img.shields.io/badge/Platzi-98CA3F?style=for-the-badge&logo=platzi&logoColor=white)](https://platzi.com/p/jdjuandavida/)
