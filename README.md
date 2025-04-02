@@ -60,12 +60,13 @@
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanAcevedo08&layout=compact&theme=radical" />
     </td>
-  
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://streak-stats.demolab.com?user=JuanAcevedo08&theme=radical&hide_border=true" />
+    </td>
   </tr>
 </table>
-
-
-
 
 
 
