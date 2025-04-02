@@ -79,7 +79,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=JuanAcevedo08&color=blue&style=for-the-badge)](https://github.com/JuanAcevedo08)
 
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--
 **JuanAcevedo08/JuanAcevedo08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
