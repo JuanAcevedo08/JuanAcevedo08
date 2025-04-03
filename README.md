@@ -52,10 +52,8 @@
 </p>
 
 ### Recently Activity
-<!-- Start -->
-
-<!-- End -->
-
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:last_update-->
 
 ### 📊 GitHub Stats & Top Languages  
 <table>
