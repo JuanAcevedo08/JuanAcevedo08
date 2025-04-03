@@ -18,11 +18,11 @@
 - 💻I like to learn about new technologies and be constantly learning.
 - 🤔 I look for ways to improve every day
 - 🚩 I'm from Bogotá Colombia ...
-- 📫 How to reach me: ...
+- 📫 <a href="https://www.linkedin.com/in/juan-acevedo-ba0242339/" target="_blank">How to reach me</a>  
 - 😄 Pronouns: he/him/el
 
 
-## 🚀 Tools
+## 💻 Knowledges 
 
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
@@ -48,6 +48,32 @@
   </a>
   <a href="https://powerbi.microsoft.com/">
     <img src="https://img.shields.io/badge/BI-0078D4?style=for-the-badge&logo=powerbi&logoColor=white" />
+  </a>
+</p>
+
+## 🚀 To Learn
+
+<p align="center">
+  <a href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  </a>
+  <a href="https://react.dev/">
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  </a>
+  <a href="https://www.w3schools.com/sql/">
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  </a>
+  <a href="https://www.djangoproject.com/">
+    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  </a>
+  <a href="https://www.ibm.com/topics/data-science">
+    <img src="https://img.shields.io/badge/Data%20Science-FF6F00?style=for-the-badge&logo=databricks&logoColor=white" />
+  </a>
+  <a href="https://www.ibm.com/topics/machine-learning">
+    <img src="https://img.shields.io/badge/Machine%20Learning-0055D4?style=for-the-badge&logo=tensorflow&logoColor=white" />
   </a>
 </p>
 
