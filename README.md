@@ -79,14 +79,14 @@
 
 ### Recently Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [github/gitignore](https://github.com/github/gitignore)<br>
-2. ⬆️ Pushed 1 commit(s) to [JuanAcevedo08/JuanAcevedo08.github.io](https://github.com/JuanAcevedo08/JuanAcevedo08.github.io)<br>
-3. ⬆️ Pushed 1 commit(s) to [JuanAcevedo08/FristRepo](https://github.com/JuanAcevedo08/FristRepo)<br>
-4. ⬆️ Pushed 1 commit(s) to [JuanAcevedo08/FristRepo](https://github.com/JuanAcevedo08/FristRepo)<br>
-5. ⬆️ Pushed 1 commit(s) to [JuanAcevedo08/FristRepo](https://github.com/JuanAcevedo08/FristRepo)<br>
+1. ⬆️ Pushed 1 commit(s) to [JuanAcevedo08/JuanAcevedo08](https://github.com/JuanAcevedo08/JuanAcevedo08)<br>
+2. ⬆️ Pushed 1 commit(s) to [JuanAcevedo08/AllProjects](https://github.com/JuanAcevedo08/AllProjects)<br>
+3. ⬆️ Pushed 1 commit(s) to [JuanAcevedo08/JuanAcevedo08](https://github.com/JuanAcevedo08/JuanAcevedo08)<br>
+4. ⬆️ Pushed 1 commit(s) to [JuanAcevedo08/JuanAcevedo08](https://github.com/JuanAcevedo08/JuanAcevedo08)<br>
+5. ⬆️ Pushed 1 commit(s) to [JuanAcevedo08/JuanAcevedo08.github.io](https://github.com/JuanAcevedo08/JuanAcevedo08.github.io)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, April 3rd, 2025, 1:25:43 PM
+Last Updated: Friday, April 4th, 2025, 3:07:43 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ### 📊 GitHub Stats & Top Languages  
