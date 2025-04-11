@@ -80,13 +80,13 @@
 ### Recently Activity
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [JuanAcevedo08/AllProjects](https://github.com/JuanAcevedo08/AllProjects)<br>
-2. ⬆️ Pushed 1 commit(s) to [JuanAcevedo08/AllProjects](https://github.com/JuanAcevedo08/AllProjects)<br>
-3. ⬆️ Pushed 1 commit(s) to [JuanAcevedo08/Wrorking-With-AI](https://github.com/JuanAcevedo08/Wrorking-With-AI)<br>
-4. 📔 Created new repository [JuanAcevedo08/HappyBrithay](https://github.com/JuanAcevedo08/HappyBrithay)<br>
-5. 📔 Created new repository [JuanAcevedo08/JFN](https://github.com/JuanAcevedo08/JFN)<br>
+2. ⬆️ Pushed 2 commit(s) to [JuanAcevedo08/AllProjects](https://github.com/JuanAcevedo08/AllProjects)<br>
+3. ⬆️ Pushed 1 commit(s) to [JuanAcevedo08/AllProjects](https://github.com/JuanAcevedo08/AllProjects)<br>
+4. ⬆️ Pushed 1 commit(s) to [JuanAcevedo08/AllProjects](https://github.com/JuanAcevedo08/AllProjects)<br>
+5. ⬆️ Pushed 1 commit(s) to [JuanAcevedo08/Wrorking-With-AI](https://github.com/JuanAcevedo08/Wrorking-With-AI)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, April 11th, 2025, 3:10:28 AM
+Last Updated: Friday, April 11th, 2025, 1:34:30 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ### 📊 GitHub Stats & Top Languages  
