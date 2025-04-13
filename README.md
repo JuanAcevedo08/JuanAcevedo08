@@ -81,14 +81,14 @@
 
 ### Recently Activity
 <!--RECENT_ACTIVITY:start-->
-1. 📖 Created new wiki page [about-me](https://github.com/JuanAcevedo08/JuanAcevedo08/wiki/about-me) in [JuanAcevedo08/JuanAcevedo08](https://github.com/JuanAcevedo08/JuanAcevedo08)<br>
-2. ⬆️ Pushed 1 commit(s) to [JuanAcevedo08/JuanAcevedo08](https://github.com/JuanAcevedo08/JuanAcevedo08)<br>
-3. ⬆️ Pushed 1 commit(s) to [JuanAcevedo08/JuanAcevedo08](https://github.com/JuanAcevedo08/JuanAcevedo08)<br>
-4. ⬆️ Pushed 1 commit(s) to [JuanAcevedo08/JuanAcevedo08.github.io](https://github.com/JuanAcevedo08/JuanAcevedo08.github.io)<br>
-5. 📖 Created new wiki page [Skills](https://github.com/JuanAcevedo08/JuanAcevedo08/wiki/Skills) in [JuanAcevedo08/JuanAcevedo08](https://github.com/JuanAcevedo08/JuanAcevedo08)<br>
+1. ⬆️ Pushed 1 commit(s) to [JuanAcevedo08/AllProjects](https://github.com/JuanAcevedo08/AllProjects)<br>
+2. ⬆️ Pushed 1 commit(s) to [JuanAcevedo08/AllProjects](https://github.com/JuanAcevedo08/AllProjects)<br>
+3. 📖 Created new wiki page [about-me](https://github.com/JuanAcevedo08/JuanAcevedo08/wiki/about-me) in [JuanAcevedo08/JuanAcevedo08](https://github.com/JuanAcevedo08/JuanAcevedo08)<br>
+4. ⬆️ Pushed 1 commit(s) to [JuanAcevedo08/JuanAcevedo08](https://github.com/JuanAcevedo08/JuanAcevedo08)<br>
+5. ⬆️ Pushed 1 commit(s) to [JuanAcevedo08/JuanAcevedo08](https://github.com/JuanAcevedo08/JuanAcevedo08)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, April 12th, 2025, 1:02:49 PM
+Last Updated: Sunday, April 13th, 2025, 4:37:22 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ### 📊 GitHub Stats & Top Languages  
