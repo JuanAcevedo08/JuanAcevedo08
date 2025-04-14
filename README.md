@@ -83,12 +83,12 @@
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [JuanAcevedo08/AllProjects](https://github.com/JuanAcevedo08/AllProjects)<br>
 2. ⬆️ Pushed 1 commit(s) to [JuanAcevedo08/AllProjects](https://github.com/JuanAcevedo08/AllProjects)<br>
-3. 📖 Created new wiki page [about-me](https://github.com/JuanAcevedo08/JuanAcevedo08/wiki/about-me) in [JuanAcevedo08/JuanAcevedo08](https://github.com/JuanAcevedo08/JuanAcevedo08)<br>
-4. ⬆️ Pushed 1 commit(s) to [JuanAcevedo08/JuanAcevedo08](https://github.com/JuanAcevedo08/JuanAcevedo08)<br>
+3. ⬆️ Pushed 1 commit(s) to [JuanAcevedo08/AllProjects](https://github.com/JuanAcevedo08/AllProjects)<br>
+4. 📖 Created new wiki page [about-me](https://github.com/JuanAcevedo08/JuanAcevedo08/wiki/about-me) in [JuanAcevedo08/JuanAcevedo08](https://github.com/JuanAcevedo08/JuanAcevedo08)<br>
 5. ⬆️ Pushed 1 commit(s) to [JuanAcevedo08/JuanAcevedo08](https://github.com/JuanAcevedo08/JuanAcevedo08)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, April 13th, 2025, 1:04:04 PM
+Last Updated: Monday, April 14th, 2025, 3:15:34 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ### 📊 GitHub Stats & Top Languages  
