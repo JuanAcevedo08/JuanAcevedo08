@@ -81,14 +81,14 @@
 
 ### Recently Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [JuanAcevedo08/AllProjects](https://github.com/JuanAcevedo08/AllProjects)<br>
+1. ⬆️ Pushed 2 commit(s) to [JuanAcevedo08/AllProjects](https://github.com/JuanAcevedo08/AllProjects)<br>
 2. ⬆️ Pushed 1 commit(s) to [JuanAcevedo08/AllProjects](https://github.com/JuanAcevedo08/AllProjects)<br>
-3. ⬆️ Pushed 1 commit(s) to [JuanAcevedo08/AllProjects](https://github.com/JuanAcevedo08/AllProjects)<br>
-4. ⬆️ Pushed 1 commit(s) to [JuanAcevedo08/AllProjects](https://github.com/JuanAcevedo08/AllProjects)<br>
-5. 📖 Created new wiki page [about-me](https://github.com/JuanAcevedo08/JuanAcevedo08/wiki/about-me) in [JuanAcevedo08/JuanAcevedo08](https://github.com/JuanAcevedo08/JuanAcevedo08)<br>
+3. ⬆️ Pushed 1 commit(s) to [JuanAcevedo08/JuanAcevedo08.github.io](https://github.com/JuanAcevedo08/JuanAcevedo08.github.io)<br>
+4. ⬆️ Pushed 1 commit(s) to [JuanAcevedo08/Wrorking-With-AI](https://github.com/JuanAcevedo08/Wrorking-With-AI)<br>
+5. ⬆️ Pushed 1 commit(s) to [JuanAcevedo08/AllProjects](https://github.com/JuanAcevedo08/AllProjects)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, April 18th, 2025, 1:16:17 PM
+Last Updated: Saturday, April 19th, 2025, 3:04:55 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ### 📊 GitHub Stats & Top Languages  
