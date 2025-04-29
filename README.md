@@ -82,13 +82,13 @@
 ### Recently Activity
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [JuanAcevedo08/AllProjects](https://github.com/JuanAcevedo08/AllProjects)<br>
-2. 📖 Created new wiki page [TECH-NOTES](https://github.com/JuanAcevedo08/JuanAcevedo08/wiki/TECH-NOTES) in [JuanAcevedo08/JuanAcevedo08](https://github.com/JuanAcevedo08/JuanAcevedo08)<br>
-3. ⬆️ Pushed 2 commit(s) to [JuanAcevedo08/AllProjects](https://github.com/JuanAcevedo08/AllProjects)<br>
-4. ⬆️ Pushed 1 commit(s) to [JuanAcevedo08/AllProjects](https://github.com/JuanAcevedo08/AllProjects)<br>
-5. ⬆️ Pushed 1 commit(s) to [JuanAcevedo08/JuanAcevedo08.github.io](https://github.com/JuanAcevedo08/JuanAcevedo08.github.io)<br>
+2. ⬆️ Pushed 1 commit(s) to [JuanAcevedo08/AllProjects](https://github.com/JuanAcevedo08/AllProjects)<br>
+3. ⬆️ Pushed 1 commit(s) to [JuanAcevedo08/Big-Projects](https://github.com/JuanAcevedo08/Big-Projects)<br>
+4. ⬆️ Pushed 1 commit(s) to [JuanAcevedo08/Big-Projects](https://github.com/JuanAcevedo08/Big-Projects)<br>
+5. 📔 Created new repository [JuanAcevedo08/Big-Projects](https://github.com/JuanAcevedo08/Big-Projects)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, April 29th, 2025, 3:14:40 AM
+Last Updated: Tuesday, April 29th, 2025, 1:44:41 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ### 📊 GitHub Stats & Top Languages  
