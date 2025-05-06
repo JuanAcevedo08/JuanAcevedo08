@@ -81,14 +81,14 @@
 
 ### Recently Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [JuanAcevedo08/JuanAcevedo08](https://github.com/JuanAcevedo08/JuanAcevedo08)<br>
-2. ⬆️ Pushed 2 commit(s) to [JuanAcevedo08/AllProjects](https://github.com/JuanAcevedo08/AllProjects)<br>
+1. ⬆️ Pushed 1 commit(s) to [JuanAcevedo08/Big-Projects](https://github.com/JuanAcevedo08/Big-Projects)<br>
+2. ⬆️ Pushed 1 commit(s) to [JuanAcevedo08/Big-Projects](https://github.com/JuanAcevedo08/Big-Projects)<br>
 3. ⬆️ Pushed 1 commit(s) to [JuanAcevedo08/JuanAcevedo08](https://github.com/JuanAcevedo08/JuanAcevedo08)<br>
-4. ⬆️ Pushed 1 commit(s) to [JuanAcevedo08/AllProjects](https://github.com/JuanAcevedo08/AllProjects)<br>
-5. ⬆️ Pushed 1 commit(s) to [JuanAcevedo08/AllProjects](https://github.com/JuanAcevedo08/AllProjects)<br>
+4. ⬆️ Pushed 2 commit(s) to [JuanAcevedo08/AllProjects](https://github.com/JuanAcevedo08/AllProjects)<br>
+5. ⬆️ Pushed 1 commit(s) to [JuanAcevedo08/JuanAcevedo08](https://github.com/JuanAcevedo08/JuanAcevedo08)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, May 5th, 2025, 1:28:19 PM
+Last Updated: Tuesday, May 6th, 2025, 2:01:35 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ### 📊 GitHub Stats & Top Languages  
