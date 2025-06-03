@@ -8,7 +8,6 @@
 
 [![Platzi](https://img.shields.io/badge/Platzi-98CA3F?style=for-the-badge&logo=platzi&logoColor=white)](https://platzi.com/p/jdjuandavida/)
 
-[![Join Fluent Hub on Discord](https://img.shields.io/discord/13776650723599912?label=Join%20Fluent%20Hub&logo=discord&style=for-the-badge)](https://discord.gg/hgAtwBnhjT)
 
 
 ### 🚀 Quote of the Day  
