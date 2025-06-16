@@ -4,7 +4,6 @@
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 [![Made with ❤️ by Juan Acevedo](https://img.shields.io/badge/Made%20with%20❤️%20by-Juan%20Acevedo-red?style=for-the-badge)](https://www.instagram.com/juandavid08948/)
-[![GitHub Education](https://img.shields.io/badge/GitHub%20Education-Empowered%20Developer-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://education.github.com/)
 
 [![Platzi](https://img.shields.io/badge/Platzi-98CA3F?style=for-the-badge&logo=platzi&logoColor=white)](https://platzi.com/p/jdjuandavida/)
 
