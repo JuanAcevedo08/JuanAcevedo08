@@ -27,12 +27,6 @@
 ## 💻 Knowledges 
 
 <p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  </a>
   <a href="https://www.python.org/">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   </a>
@@ -45,35 +39,19 @@
   <a href="https://github.com/">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://en.wikipedia.org/wiki/Artificial_intelligence">
-    <img src="https://img.shields.io/badge/AI-00A3E0?style=for-the-badge&logo=openai&logoColor=white" />
-  </a>
-  <a href="https://powerbi.microsoft.com/">
-    <img src="https://img.shields.io/badge/BI-0078D4?style=for-the-badge&logo=powerbi&logoColor=white" />
-  </a>
+
 </p>
 
 ## 🚀 To Learn
 
 <p align="center">
-  <a href="https://www.python.org/">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  </a>
-  <a href="https://react.dev/">
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  </a>
   <a href="https://www.w3schools.com/sql/">
     <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
   </a>
   <a href="https://www.djangoproject.com/">
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   </a>
-  <a href="https://www.ibm.com/topics/data-science">
-    <img src="https://img.shields.io/badge/Data%20Science-FF6F00?style=for-the-badge&logo=databricks&logoColor=white" />
-  </a>
+
   <a href="https://www.ibm.com/topics/machine-learning">
     <img src="https://img.shields.io/badge/Machine%20Learning-0055D4?style=for-the-badge&logo=tensorflow&logoColor=white" />
   </a>
