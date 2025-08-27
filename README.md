@@ -38,21 +38,21 @@
   <a href="https://github.com/">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="https://www.ibm.com/topics/machine-learning">
+    <img src="https://img.shields.io/badge/Machine%20Learning-0055D4?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  </a>
 
+   <a href="https://www.w3schools.com/sql/">
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  </a>
 </p>
 
 ## 🚀 To Learn
 
 <p align="center">
-  <a href="https://www.w3schools.com/sql/">
-    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  </a>
+ 
   <a href="https://www.djangoproject.com/">
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  </a>
-
-  <a href="https://www.ibm.com/topics/machine-learning">
-    <img src="https://img.shields.io/badge/Machine%20Learning-0055D4?style=for-the-badge&logo=tensorflow&logoColor=white" />
   </a>
 </p>
 
