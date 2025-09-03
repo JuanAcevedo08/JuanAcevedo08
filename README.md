@@ -23,29 +23,32 @@
 - 😄 Pronouns: he/him/el
 
 
-## 💻 Knowledges 
+# 🤖 Languages and Tools:
 
-<p align="center">
-  <a href="https://www.python.org/">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  </a>
-  <a href="https://www.promptingguide.ai/">
-    <img src="https://img.shields.io/badge/Prompt%20Engineering-5A5A5A?style=for-the-badge&logo=openai&logoColor=white" />
-  </a>
-  <a href="https://git-scm.com/">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  </a>
-  <a href="https://github.com/">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.ibm.com/topics/machine-learning">
-    <img src="https://img.shields.io/badge/Machine%20Learning-0055D4?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  </a>
+<div align="left">
+  <!-- Soportados por skillicons -->
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" />
+  <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" />
+  <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" />
+  <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" />
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" />
+  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" />
 
-   <a href="https://www.w3schools.com/sql/">
-    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  </a>
-</p>
+  <!-- No soportados en skillicons → usamos simpleicons -->
+  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="48" alt="Scikit-learn" />
+  <img src="https://cdn.simpleicons.org/huggingface/FFCC00" height="48" alt="HuggingFace" />
+  <img src="https://cdn.simpleicons.org/langchain/0A0A0A" height="48" alt="LangChain" />
+  <img src="https://cdn.simpleicons.org/githubcopilot/000000" height="48" alt="GitHub Copilot" />
+  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="48" alt="WSL" />
+  <img src="https://cdn.simpleicons.org/openaigym/0081A5" height="48" alt="Deep Learning" />
+  <img src="https://cdn.simpleicons.org/openaigym/412991" height="48" alt="AI" />
+</div>
+
+
 
 ## 🚀 To Learn
 
