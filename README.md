@@ -63,9 +63,9 @@
 ### 📊 GitHub Stats & Top Languages  
 <table>
   <tr>
-    <td>
+<!--     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=JuanAcevedo08&show_icons=true&theme=radical" />
-    </td>
+    </td> -->
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanAcevedo08&layout=compact&theme=radical" />
     </td>
