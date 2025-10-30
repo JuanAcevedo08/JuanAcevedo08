@@ -5,8 +5,6 @@
 
 [![Made with ❤️ by Juan Acevedo](https://img.shields.io/badge/Made%20with%20❤️%20by-Juan%20Acevedo-red?style=for-the-badge)](https://www.instagram.com/juandavid08948/)
 
-[![Platzi](https://img.shields.io/badge/Platzi-98CA3F?style=for-the-badge&logo=platzi&logoColor=white)](https://platzi.com/p/jdjuandavida/)
-
 
 
 ### 🚀 Quote of the Day  
